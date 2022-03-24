@@ -1,4 +1,5 @@
-## Olá, eu sou Otávio Augusto Sou apaixonado por programação 👨‍💻
+Olá, eu sou Otávio Augusto Sou apaixonado por programação 👨‍💻
+## Atualmente cursando Ciência da Computação na UNESP
 <div align="center">
   <a href="https://github.com/T4vexx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T4vexx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
