@@ -1,7 +1,9 @@
 ## Olá, eu sou Otávio Augusto Sou apaixonado por programação 👨‍💻 </br>Atualmente cursando Ciência da Computação na UNESP
+
 <div align="center">
-  <img height="180em" src="https://cdn.discordapp.com/attachments/593999593386278912/956549077997342821/a27aa844-74f3-4b34-bc90-c15c31d03104.jpg" />
-  
+  <img height="400em" src="https://cdn.discordapp.com/attachments/593999593386278912/956549077997342821/a27aa844-74f3-4b34-bc90-c15c31d03104.jpg" />
+</div>
+<div align="center">
   <a href="https://github.com/T4vexx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T4vexx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&langs_count=7&theme=tokyonight"/>
