@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/T4vexx">
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=T4vexx&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/T4vexx/github-readme-stats#gh-dark-mode-only)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T4vexx&show_icons=true&theme=transparent)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
