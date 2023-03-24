@@ -7,7 +7,7 @@
   <a href="https://github.com/T4vexx">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=T4vexx&show_icons=true&theme=dracula"
+      srcset="https://github-readme-stats.vercel.app/api?username=T4vexx&show_icons=true&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -19,17 +19,15 @@
 
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=T4vexx&show_icons=true&theme=tokyonight"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=T4vexx&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=T4vexx&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight" />
   </picture>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&langs_count=10&theme=tokyonight"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
