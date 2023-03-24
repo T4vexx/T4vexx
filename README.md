@@ -3,7 +3,7 @@
 <div align="center">
   <img height="400em" src="https://cdn.discordapp.com/attachments/593999593386278912/956549077997342821/a27aa844-74f3-4b34-bc90-c15c31d03104.jpg" />
 </div>
-<div align="center" width="10rem">
+<div align="center" width="10rem" height="200px">
   <a href="https://github.com/T4vexx">
   <picture>
     <source 
