@@ -19,14 +19,14 @@
 
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight&langs_count=8&hide=jupter"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight&langs_count=8&hide=jupter"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight&langs_count=8&hide=jupter" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook" />
   </picture>
   </a>
 </div>
