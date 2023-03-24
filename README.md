@@ -3,8 +3,7 @@
 <div align="center">
   <img height="400em" src="https://cdn.discordapp.com/attachments/593999593386278912/956549077997342821/a27aa844-74f3-4b34-bc90-c15c31d03104.jpg" />
 </div>
-<div align="center" width="10em" height="20em">
-  <a href="https://github.com/T4vexx">
+<div align="center">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=T4vexx&show_icons=true&theme=tokyonight"
@@ -28,7 +27,6 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook" />
   </picture>
-  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="T4vexx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
