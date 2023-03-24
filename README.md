@@ -3,7 +3,7 @@
 <div align="center">
   <img height="400em" src="https://cdn.discordapp.com/attachments/593999593386278912/956549077997342821/a27aa844-74f3-4b34-bc90-c15c31d03104.jpg" />
 </div>
-<div align="center" style="justify-content: space-between">
+<div align="center">
   <a href="https://github.com/T4vexx">
   <picture>
     <source 
@@ -20,14 +20,14 @@
   <a href="https://github.com/T4vexx">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight&langs_count=10&hide=jupyter%20notebook"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight&langs_count=10&hide=jupyter%20notebook"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight&langs_count=10&hide=jupyter%20notebook" />
   </picture>
 <a/>  
 </div>
