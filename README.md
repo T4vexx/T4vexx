@@ -7,7 +7,7 @@
   <a href="https://github.com/T4vexx">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=T4vexx&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=T4vexx&show_icons=true&theme=dracula"
       media="(prefers-color-scheme: dark)"
     />
     <source
