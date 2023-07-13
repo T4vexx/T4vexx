@@ -31,7 +31,7 @@
   </picture>
 <a/>  
 </div>
-<div style="display: flex; align-itens: center; justify-content: center"><br>
+<div style="display: flex; align: center"><br>
   <img align="center" alt="T4vexx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="T4vexx-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="T4vexx-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
