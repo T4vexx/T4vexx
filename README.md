@@ -1,4 +1,4 @@
-## Olá, eu sou Otávio Augusto Sou apaixonado por programação 👨‍💻 </br>Atualmente cursando Ciência da Computação na UNESP
+## Olá, eu sou Otávio Augusto sou apaixonado por programação 👨‍💻 </br>Atualmente cursando Ciência da Computação na **UNESP**
 
 <div align="center">
   <img height="400em" src="https://cdn.discordapp.com/attachments/593999593386278912/956549077997342821/a27aa844-74f3-4b34-bc90-c15c31d03104.jpg" />
