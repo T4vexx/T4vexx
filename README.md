@@ -61,7 +61,6 @@
   <a href = "mailto:tavinteixeira@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-00c8ff?style=for-the-badge&logo=mail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/otavio-augusto-teixeira-0012/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.threads.net/@tavex.dev" target="_blank"><img src="https://img.shields.io/badge/-threads-000?style=for-the-badge" target="_blank"></a> 
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&hide=jupyter%20notebook)
+
  
 </div>
