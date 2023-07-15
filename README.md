@@ -62,6 +62,6 @@
   <a href="https://www.linkedin.com/in/otavio-augusto-teixeira-0012/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.threads.net/@tavex.dev" target="_blank"><img src="https://img.shields.io/badge/-threads-000?style=for-the-badge" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/T4vexx/T4vexx/blob/output/github-contribution-grid-snake.svg)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx)](https://github.com/T4vexx/github-readme-stats)
  
 </div>
