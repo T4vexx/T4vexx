@@ -57,7 +57,7 @@
  
 <div> 
   <a href="https://www.instagram.com/otavio.at/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:tavinteixeira@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-00c8ff?style=for-the-badge&logo=mail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:tavinteixeira@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-00c8ff?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/otavio-augusto-teixeira-0012/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://otavioteixeira.com" target="_blank"><img src="https://img.shields.io/badge/-website-000?style=for-the-badge" target="_blank"></a> 
 </div>
