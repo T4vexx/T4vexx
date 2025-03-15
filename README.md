@@ -32,7 +32,7 @@
   </picture>
 <a/>  
 </div>
-<div style="display:flex; flexDirection: column; gap: 20"><br>
+<div style="display:flex"><br>
   <div style="display: flex; align: center"> 
      <img align="center" alt="T4vexx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="T4vexx-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
