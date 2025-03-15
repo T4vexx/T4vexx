@@ -61,7 +61,7 @@
  </div>
    <br>
  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;" > 
-    DBs:
+    <b>DBs:</b>
      <img align="center" alt="T4vexx-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" >
      <img align="center" alt="T4vexx-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
      <img align="center" alt="T4vexx-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
