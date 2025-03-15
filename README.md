@@ -1,4 +1,4 @@
-## Hello everyone, I'm Otávio Augusto. I've been working with code and software development since I was 15 years old👨‍💻 
+### Hello everyone, I'm Otávio Augusto. I've been working with code and software development since I was 15 years old👨‍💻 
 ### Currently I'm studying computer science at **UNESP/IBILCE**, Brazilian public university 📚
 
 <!--<div align="center">
