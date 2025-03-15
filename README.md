@@ -1,8 +1,8 @@
-## Olá, eu sou Otávio Augusto, trabalho com programação desde meus 15 anos👨‍💻 </br>Atualmente cursando Ciência da Computação na **UNESP/IBILCE**
+## Hello everyone, I'm Otávio Augusto. I've been working with code and software development since I was 15 years old👨‍💻 Currently I'm studying computer science at **UNESP/IBILCE**, Brazilian public university
 
-<div align="center">
+<!--<div align="center">
    <img height="400em" src="https://github.com/T4vexx/T4vexx/assets/68335367/0d8af867-91aa-4de2-8605-76f569b5ba00" />
-</div>
+</div>-->
 <div align="center">
   <a href="https://github.com/T4vexx">
   <picture>
