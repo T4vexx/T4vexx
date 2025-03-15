@@ -35,6 +35,7 @@
    <br>
 <div>
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;"> 
+     ### Languages:
      <img align="center" alt="T4vexx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="T4vexx-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
      <img align="center" alt="T4vexx-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
