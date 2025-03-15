@@ -1,6 +1,6 @@
 ### Hello everyone, I'm Otávio Augusto. I've been working with code and software development since I was 15 years old👨‍💻 
 ### Currently I'm studying computer science at **UNESP/IBILCE**, Brazilian public university 📚
-
+<br>
 <!--<div align="center">
    <img height="400em" src="https://github.com/T4vexx/T4vexx/assets/68335367/0d8af867-91aa-4de2-8605-76f569b5ba00" />
 </div>-->
@@ -42,6 +42,7 @@
      <img align="center" alt="T4vexx-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
      <img align="center" alt="T4vexx-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
  </div>
+   <br>
  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;"> 
      <img align="center" alt="T4vexx-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
      <img align="center" alt="T4vexx-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />  
@@ -55,6 +56,7 @@
      <img align="center" alt="T4vexx-Nginx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">
      <img align="center" alt="T4vexx-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
  </div>
+   <br>
  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;" > 
      <img align="center" alt="T4vexx-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" >
      <img align="center" alt="T4vexx-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
