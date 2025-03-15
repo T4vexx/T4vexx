@@ -1,5 +1,5 @@
 ## Hello everyone, I'm Otávio Augusto. I've been working with code and software development since I was 15 years old👨‍💻 
-## Currently I'm studying computer science at **UNESP/IBILCE**, Brazilian public university
+## Currently I'm studying computer science at **UNESP/IBILCE**, Brazilian public university 📚
 
 <!--<div align="center">
    <img height="400em" src="https://github.com/T4vexx/T4vexx/assets/68335367/0d8af867-91aa-4de2-8605-76f569b5ba00" />
