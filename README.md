@@ -35,7 +35,7 @@
    <br>
 <div>
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;"> 
-     ### Languages:
+     Languages:
      <img align="center" alt="T4vexx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="T4vexx-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
      <img align="center" alt="T4vexx-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
@@ -45,7 +45,8 @@
      <img align="center" alt="T4vexx-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
  </div>
    <br>
- <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;"> 
+ <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    Frameworks:
      <img align="center" alt="T4vexx-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
      <img align="center" alt="T4vexx-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />  
      <img align="center" alt="T4vexx-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -60,6 +61,7 @@
  </div>
    <br>
  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;" > 
+    DBs:
      <img align="center" alt="T4vexx-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" >
      <img align="center" alt="T4vexx-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
      <img align="center" alt="T4vexx-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
