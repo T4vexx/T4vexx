@@ -32,6 +32,7 @@
   </picture>
 <a/>  
 </div>
+   <br>
 <div>
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;"> 
      <img align="center" alt="T4vexx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
