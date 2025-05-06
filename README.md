@@ -58,6 +58,9 @@
      <img align="center" alt="T4vexx-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" >
      <img align="center" alt="T4vexx-Nginx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">
      <img align="center" alt="T4vexx-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+     <img align="center" alt="T4vexx-Kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
+     <img align="center" alt="T4vexx-RabbitMQ" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
+          
  </div>
    <br>
  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;" > 
