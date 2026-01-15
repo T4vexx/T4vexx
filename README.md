@@ -1,38 +1,7 @@
 ### Hello everyone, I'm Otávio Augusto. I've been working with code and software development since I was 15 years old👨‍💻 
 ### I graduated in Computer Science from UNESP/IBILCE, a Brazilian public university 📚
+
 <br>
-<div align="center">
-   <img height="400em" src="https://github.com/T4vexx/T4vexx/assets/68335367/0d8af867-91aa-4de2-8605-76f569b5ba00" />
-</div>
-<div align="center">
-  <a href="https://github.com/T4vexx">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=T4vexx&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=T4vexx&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=T4vexx&show_icons=true" />
-  </picture>
-  <a/>  
-  <a href="https://github.com/T4vexx">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vexx&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook" />
-  </picture>
-<a/>  
-</div>
-   <br>
 <div>
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;"> 
      <b>Languages:</b>
