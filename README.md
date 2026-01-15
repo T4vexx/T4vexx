@@ -1,9 +1,9 @@
 ### Hello everyone, I'm Otávio Augusto. I've been working with code and software development since I was 15 years old👨‍💻 
 ### I graduated in Computer Science from UNESP/IBILCE, a Brazilian public university 📚
 <br>
-<!--<div align="center">
+<div align="center">
    <img height="400em" src="https://github.com/T4vexx/T4vexx/assets/68335367/0d8af867-91aa-4de2-8605-76f569b5ba00" />
-</div>-->
+</div>
 <div align="center">
   <a href="https://github.com/T4vexx">
   <picture>
